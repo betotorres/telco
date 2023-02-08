@@ -13,6 +13,14 @@ Inicialmente, a ideia é **explorar os dados e criar indicadores para acompanham
 
 <img width="697" alt="image" src="https://user-images.githubusercontent.com/8959931/217652548-7c7038f8-4800-49fe-937c-37469ddf2e95.png">
 
+Para realização desta atividade, alguns conjuntos de dados foram disponibilizados no diretório "/datasources". Nesta linha, é esperado:
+
+1. Definição de questões norteadoreas do estudo / Possíveis Indicadores para uma análise descritiva.
+2. Seleção dos conjuntos de dados adequados ao estudo.
+3. Realização de análise exploratória, com avaliação da qualidade dos dados.
+4. Preparação dos dados - com seleção dos atributos relevantes e ajuste na qualidade de dados com ruído.
+5. Modelagem e Implementação de Paineis de Indicadores utilizando o Power BI (análise descritiva/ diagnóstica)
+6. Criação do modelo de predição
 
 
 <sub>*Estudo de Caso de Aplicação de Técnicas de ML na predição de perda de clientes - (adaptado de https://www.kaggle.com/blastchar/telco-customer-churn)</sub>
